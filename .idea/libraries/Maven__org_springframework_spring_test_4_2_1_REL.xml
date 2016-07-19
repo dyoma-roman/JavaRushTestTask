@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-test:4.2.1.REL">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.1.REL/spring-test-4.2.1.REL.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.1.REL/spring-test-4.2.1.REL-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.1.REL/spring-test-4.2.1.REL-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
